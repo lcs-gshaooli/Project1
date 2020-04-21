@@ -80,6 +80,7 @@
 				2610D5A22448AFBE00065DF5 /* SceneDelegate.swift */,
 				2610D5A42448AFBE00065DF5 /* ViewController.swift */,
 				2610D5A62448AFBE00065DF5 /* Main.storyboard */,
+				2610D5AB2448AFC100065DF5 /* LaunchScreen.storyboard */,
 				2610D5A92448AFC100065DF5 /* Assets.xcassets */,
 				2610D5BC2448B04C00065DF5 /* nssl0033.jpg */,
 				2610D5B52448B04A00065DF5 /* nssl0034.jpg */,
@@ -91,7 +92,6 @@
 				2610D5BA2448B04B00065DF5 /* nssl0049.jpg */,
 				2610D5BB2448B04B00065DF5 /* nssl0051.jpg */,
 				2610D5B82448B04A00065DF5 /* nssl0091.jpg */,
-				2610D5AB2448AFC100065DF5 /* LaunchScreen.storyboard */,
 				2610D5AE2448AFC100065DF5 /* Info.plist */,
 			);
 			path = Project1;

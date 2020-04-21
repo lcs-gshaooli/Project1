@@ -31,11 +31,9 @@ class ViewController: UIViewController {
                 pictures.append(item)
             }
         }
+        
         print(pictures)
         
-        // Do any additional setup after loading the view.
     }
     
-    
-}
 
