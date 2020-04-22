@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewController: UITableViewController {
     
     // MARK: Properties
     var pictures = [String]()
@@ -37,3 +37,4 @@ class ViewController: UIViewController {
     }
     
 
+}
